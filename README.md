@@ -60,8 +60,7 @@ Bat-Ball-Stump-Game/
 
 ## 📸 Preview
 
-(Add a screenshot here later)
-
+![Game Screenshot](cricket.png)
 ---
 
 ## 🔮 Future Improvements
